@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Angel</h1>
-<h3 align="center">A passionate frontend developer from Spain (Camuñas-Toledo)</h3>
+<h3 align="center">A passionate Full Stack developer from Spain (Camuñas-Toledo)</h3>
 
 <h3 align="left">Connect with me: josancanop@gmail.com</h3>
 <p align="left">
